@@ -1,0 +1,7 @@
+[INFO ] Loading ROM from extract/usa/config.yaml
+[WARN ] Local function call from 0x02001518 in ARM9 main to 0x020105b4 goes to middle of function 'func_020105a4' at 0x020105a4, adding an external label symbol
+[WARN ] Local function call from 0x0200158c in ARM9 main to 0x020105b4 goes to middle of function 'func_020105a4' at 0x020105a4, adding an external label symbol
+[WARN ] Local function call from 0x020015dc in ARM9 main to 0x020105b4 goes to middle of function 'func_020105a4' at 0x020105a4, adding an external label symbol
+[WARN ] Local function call from 0x0200d120 in ARM9 main to 0x02010770 goes to middle of function 'func_02010764' at 0x02010764, adding an external label symbol
+[WARN ] Local function call from 0x0200ef2c in ARM9 main to 0x02010770 goes to middle of function 'func_02010764' at 0x02010764, adding an external label symbol
+[WARN ] Local function call from 0x02010794 in ARM9 main to 0x020109c0 goes to middle of function 'func_020109b8' at 0x020109b8, adding an external label symbol
