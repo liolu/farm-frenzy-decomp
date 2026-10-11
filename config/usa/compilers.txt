@@ -1,2 +1,3 @@
 # Source files built with another compiler than tools/configure.py MWCC_VERSION
 # <source path> <mwccarm version> [extra flags]
+src/auto/func_0202130c.c 1.2/sp2p3
