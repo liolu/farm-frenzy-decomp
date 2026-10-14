@@ -1,5 +1,5 @@
-#include "m2c.h"
 #include "engine.h"
+#include "m2c.h"
 
 void func_0201dd30(M2C_UNK, M2C_UNK);
 
@@ -8,7 +8,8 @@ extern s32 data_0207f4a8;
 extern M2C_UNK data_02095d58;
 
 void func_02031854(s32 arg0) {
-    if ((*((M2C_UNK *)((s8 *)&data_02055e80 + (M2C_FIELD(&data_02095d58, s32 *, 0x18) * 0x14))) == -1) && (data_0207f4a8 == 9)) {
+    if ((*((M2C_UNK *) ((s8 *) &data_02055e80 + (M2C_FIELD(&data_02095d58, s32 *, 0x18) * 0x14))) == -1) &&
+        (data_0207f4a8 == 9)) {
         M2C_FIELD(&data_02095d58, s32 *, 0x84) = 0;
     } else {
         M2C_FIELD(&data_02095d58, s32 *, 0x84) = 1;

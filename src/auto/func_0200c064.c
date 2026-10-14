@@ -1,5 +1,5 @@
-#include "m2c.h"
 #include "engine.h"
+#include "m2c.h"
 
 void func_020050bc(M2C_UNK, M2C_UNK);
 M2C_UNK func_0200550c(void);
@@ -12,7 +12,7 @@ void func_0200c064(s32 arg0) {
     s32 temp_r4;
     s32 var_r1;
 
-    temp_r4 = func_0200550c();
+    temp_r4       = func_0200550c();
     data_02081ec8 = arg0;
     if (func_0200bdcc() == 0) {
         if (arg0 != 0) {

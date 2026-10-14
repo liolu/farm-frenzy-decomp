@@ -13,7 +13,8 @@ void func_0201f898(void) {
             func_0201da58(0x80000, 0x60000, 2, 1, 0, 0);
         }
     } else if (M2C_FIELD(&data_02095914, s32 *, 8) != 5) {
-        func_0201da58(((M2C_FIELD(&data_02095914, s32 *, 0xC) * 0x18) + 0x16) << 0xC, ((M2C_FIELD(&data_02095914, s32 *, 8) * 0x18) + 0x16) << 0xC, 0, 1, 0, 0);
+        func_0201da58(((M2C_FIELD(&data_02095914, s32 *, 0xC) * 0x18) + 0x16) << 0xC,
+                      ((M2C_FIELD(&data_02095914, s32 *, 8) * 0x18) + 0x16) << 0xC, 0, 1, 0, 0);
     }
     func_0201da58(0x80000, 0x60000, 3, 1, 0, 0);
     if (M2C_FIELD(&data_02095914, s32 *, 0x10) != 1) {

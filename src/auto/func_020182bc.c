@@ -12,6 +12,6 @@ s32 func_020182bc(s32 *arg0) {
         return 0;
     }
     func_02018278();
-    func_0201116c(((s8 *)arg0 + 4), temp_r0);
+    func_0201116c(((s8 *) arg0 + 4), temp_r0);
     return 1;
 }

@@ -1,10 +1,10 @@
-#include "m2c.h"
 #include "engine.h"
+#include "m2c.h"
 
 M2C_UNK func_02008304(M2C_UNK, M2C_UNK);
 
 s32 func_02008a50(s32 arg0, s32 arg1, s32 arg2, s32 arg3, s32 arg4) {
-    M2C_FIELD(arg0, s32 *, 8) = arg1;
+    M2C_FIELD(arg0, s32 *, 8)    = arg1;
     M2C_FIELD(arg0, s32 *, 0x38) = arg4;
     M2C_FIELD(arg0, s32 *, 0x30) = arg2;
     M2C_FIELD(arg0, s32 *, 0x34) = arg3;

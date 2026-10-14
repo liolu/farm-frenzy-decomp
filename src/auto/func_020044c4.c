@@ -8,8 +8,8 @@ extern M2C_UNK data_0207f590;
 void func_020044c4(void *arg0, s32 arg1) {
     if (M2C_FIELD(&data_0207f590, s32 *, 0x1C) != 0) {
         func_02004828(arg0, func_02004520);
-        M2C_FIELD(arg0, s32 *, 4) = arg1;
-        M2C_FIELD(arg0, s32 *, 0) = (s32) (M2C_FIELD(arg0, s32 *, 0) | 0x80);
+        M2C_FIELD(arg0, s32 *, 4)    = arg1;
+        M2C_FIELD(arg0, s32 *, 0)    = (s32) (M2C_FIELD(arg0, s32 *, 0) | 0x80);
         M2C_FIELD(arg0, s32 *, 0x64) = 1;
         func_020048f8(arg0);
         return;

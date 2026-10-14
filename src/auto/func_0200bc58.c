@@ -1,5 +1,5 @@
-#include "m2c.h"
 #include "engine.h"
+#include "m2c.h"
 
 void func_0200557c(M2C_UNK);
 void func_02005774(void);
@@ -16,7 +16,7 @@ void func_0200bc58(void) {
     func_02005ac0(1);
     func_02005ac0(2);
     func_02005ac0(3);
-    if (((s32) (*(u16 *)0x027FFFA8 & 0x8000) >> 0xF) != 0) {
+    if (((s32) (*(u16 *) 0x027FFFA8 & 0x8000) >> 0xF) != 0) {
         var_r0 = func_02009f60();
         if (var_r0 == 4) {
             do {
