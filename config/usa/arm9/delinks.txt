@@ -2043,3 +2043,197 @@ src/auto/func_0204f778.c:
 src/auto/func_0201652c.c:
     complete
     .text       start:0x0201652c end:0x02016540
+
+src/donor/func_0200129c.c:
+    complete
+    .text       start:0x0200129c end:0x020012f4
+
+src/donor/func_020012f4.c:
+    complete
+    .text       start:0x020012f4 end:0x02001318
+
+src/donor/func_02001318.c:
+    complete
+    .text       start:0x02001318 end:0x02001340
+
+src/donor/func_02001340.c:
+    complete
+    .text       start:0x02001340 end:0x02001448
+
+src/donor/func_02001448.c:
+    complete
+    .text       start:0x02001448 end:0x02001474
+
+src/donor/func_0200168c.c:
+    complete
+    .text       start:0x0200168c end:0x020016b0
+
+src/donor/func_020016b0.c:
+    complete
+    .text       start:0x020016b0 end:0x020016e8
+
+src/donor/func_020016e8.c:
+    complete
+    .text       start:0x020016e8 end:0x02001718
+
+src/donor/func_02001740.c:
+    complete
+    .text       start:0x02001740 end:0x0200177c
+
+src/donor/func_0200177c.c:
+    complete
+    .text       start:0x0200177c end:0x02001800
+
+src/donor/func_02001800.c:
+    complete
+    .text       start:0x02001800 end:0x02001918
+
+src/donor/func_0200191c.c:
+    complete
+    .text       start:0x0200191c end:0x02001a68
+
+src/donor/func_02001a68.c:
+    complete
+    .text       start:0x02001a68 end:0x02001a9c
+
+src/donor/func_02001ad8.c:
+    complete
+    .text       start:0x02001ad8 end:0x02001b20
+
+src/donor/func_02001b20.c:
+    complete
+    .text       start:0x02001b20 end:0x02001b88
+
+src/donor/func_02001c2c.c:
+    complete
+    .text       start:0x02001c2c end:0x02001ce4
+
+src/donor/func_02001ce4.c:
+    complete
+    .text       start:0x02001ce4 end:0x02001f74
+
+src/donor/func_02001f74.c:
+    complete
+    .text       start:0x02001f74 end:0x020020c4
+
+src/donor/func_020020c4.c:
+    complete
+    .text       start:0x020020c4 end:0x020021c4
+
+src/donor/func_020021c4.c:
+    complete
+    .text       start:0x020021c4 end:0x02002270
+
+src/donor/func_02002270.c:
+    complete
+    .text       start:0x02002270 end:0x02002448
+
+src/donor/func_02002448.c:
+    complete
+    .text       start:0x02002448 end:0x02002530
+
+src/donor/func_02002550.c:
+    complete
+    .text       start:0x02002550 end:0x020025f8
+
+src/donor/func_020025f8.c:
+    complete
+    .text       start:0x020025f8 end:0x02002668
+
+src/donor/func_02002668.c:
+    complete
+    .text       start:0x02002668 end:0x020026e8
+
+src/donor/func_020026e8.c:
+    complete
+    .text       start:0x020026e8 end:0x02002768
+
+src/donor/func_0200285c.c:
+    complete
+    .text       start:0x0200285c end:0x0200293c
+
+src/donor/func_02002960.c:
+    complete
+    .text       start:0x02002960 end:0x02002994
+
+
+src/donor/func_02002a08.c:
+    complete
+    .text       start:0x02002a08 end:0x02002a3c
+
+
+src/donor/func_02002c10.c:
+    complete
+    .text       start:0x02002c10 end:0x02002c38
+
+src/donor/func_02002c38.c:
+    complete
+    .text       start:0x02002c38 end:0x02002cd0
+
+src/donor/func_02002cd0.c:
+    complete
+    .text       start:0x02002cd0 end:0x02002d70
+
+src/donor/func_02002d70.c:
+    complete
+    .text       start:0x02002d70 end:0x02002da0
+
+src/donor/func_02002da0.c:
+    complete
+    .text       start:0x02002da0 end:0x02002dd0
+
+src/donor/func_02002dd0.c:
+    complete
+    .text       start:0x02002dd0 end:0x02002e64
+
+src/donor/func_02002e64.c:
+    complete
+    .text       start:0x02002e64 end:0x02002ec8
+
+src/donor/func_02002ec8.c:
+    complete
+    .text       start:0x02002ec8 end:0x02002f14
+
+src/donor/func_0200311c.c:
+    complete
+    .text       start:0x0200311c end:0x02003174
+
+src/donor/func_02003174.c:
+    complete
+    .text       start:0x02003174 end:0x020031cc
+
+src/donor/func_020031cc.c:
+    complete
+    .text       start:0x020031cc end:0x0200326c
+
+src/donor/func_0200326c.c:
+    complete
+    .text       start:0x0200326c end:0x020032dc
+
+src/donor/func_0200336c.c:
+    complete
+    .text       start:0x0200336c end:0x020033d8
+
+src/donor/func_02003434.c:
+    complete
+    .text       start:0x02003434 end:0x02003498
+
+src/donor/func_020034f0.c:
+    complete
+    .text       start:0x020034f0 end:0x02003554
+
+src/donor/func_02003594.c:
+    complete
+    .text       start:0x02003594 end:0x020035f0
+
+src/donor/func_020035f0.c:
+    complete
+    .text       start:0x020035f0 end:0x02003730
+
+src/donor/func_0200377c.c:
+    complete
+    .text       start:0x0200377c end:0x020037b0
+
+src/donor/func_020037b0.c:
+    complete
+    .text       start:0x020037b0 end:0x0200381c
