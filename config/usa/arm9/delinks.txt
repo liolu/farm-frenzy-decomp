@@ -3025,3 +3025,91 @@ src/auto/func_0201a3f4.c:
 src/auto/func_0201a444.c:
     complete
     .text       start:0x0201a444 end:0x0201a484
+
+src/auto/func_02003d08.c:
+    complete
+    .text       start:0x02003d08 end:0x02003d54
+
+src/auto/func_02005588.c:
+    complete
+    .text       start:0x02005588 end:0x020055a4
+
+src/auto/func_02009a2c.c:
+    complete
+    .text       start:0x02009a2c end:0x02009ac4
+
+src/auto/func_0200bd44.c:
+    complete
+    .text       start:0x0200bd44 end:0x0200bd94
+
+src/auto/func_0200bd94.c:
+    complete
+    .text       start:0x0200bd94 end:0x0200bdcc
+
+src/auto/func_0200c014.c:
+    complete
+    .text       start:0x0200c014 end:0x0200c064
+
+src/auto/func_020120cc.c:
+    complete
+    .text       start:0x020120cc end:0x020120fc
+
+src/auto/func_0201d0b0.c:
+    complete
+    .text       start:0x0201d0b0 end:0x0201d238
+
+src/auto/func_0201d624.c:
+    complete
+    .text       start:0x0201d624 end:0x0201d6e4
+
+src/auto/func_0201d88c.c:
+    complete
+    .text       start:0x0201d88c end:0x0201d8cc
+
+src/auto/func_0201d8cc.c:
+    complete
+    .text       start:0x0201d8cc end:0x0201d90c
+
+src/auto/func_0201db24.c:
+    complete
+    .text       start:0x0201db24 end:0x0201db74
+
+src/auto/func_0201e268.c:
+    complete
+    .text       start:0x0201e268 end:0x0201e2a4
+
+src/auto/func_0201e448.c:
+    complete
+    .text       start:0x0201e448 end:0x0201e484
+
+src/auto/func_0201eb8c.c:
+    complete
+    .text       start:0x0201eb8c end:0x0201ebc0
+
+src/auto/func_0201eea4.c:
+    complete
+    .text       start:0x0201eea4 end:0x0201eeec
+
+src/auto/func_0201eeec.c:
+    complete
+    .text       start:0x0201eeec end:0x0201ef40
+
+src/auto/func_02021354.c:
+    complete
+    .text       start:0x02021354 end:0x02021394
+
+src/auto/func_0202e138.c:
+    complete
+    .text       start:0x0202e138 end:0x0202e168
+
+src/auto/func_0202e35c.c:
+    complete
+    .text       start:0x0202e35c end:0x0202e38c
+
+src/auto/func_0202fffc.c:
+    complete
+    .text       start:0x0202fffc end:0x0203002c
+
+src/auto/func_020371cc.c:
+    complete
+    .text       start:0x020371cc end:0x02037278
